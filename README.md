@@ -1,3 +1,5 @@
+> **Archived 2026-09-04 (RFC 0038 §9 / ADR-020).** This repository is read-only. The cartridge now lives in [`https://github.com/madfam-org/solid-hyperobjects/tree/main/rubiks-hyperobject`](https://github.com/madfam-org/solid-hyperobjects/tree/main/rubiks-hyperobject) — same files, full history absorbed. Open issues and pull requests there.
+
 # Cubo de Rubik Parametrico — Hiperobjeto Yantra4D
 
 Un cubo de Rubik completamente parametrico modelado como Hiperobjeto Acotado 4D. Cuatro dimensiones de variacion: tamano de cuadricula (NxN), estados de rotacion de capas, vista explosionada y forma geometrica (cubo o esfera).
